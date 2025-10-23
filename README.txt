@@ -1,1 +1,1 @@
-Svolgimento della verifica di TPSIT.
+Verifica di TPSIT.
