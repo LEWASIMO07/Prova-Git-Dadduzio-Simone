@@ -1,0 +1,1 @@
+Con Git ho imparato vedere chi ha modificato cosa e quando; tornare a versioni precedenti dei file; e, infine, lavorare su rami (branch) diversi senza rovinare il codice principale.
